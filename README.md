@@ -1,0 +1,1 @@
+Descrizione del progetto [qui](https://github.com/FrancescoTaurino/AndroidThings-PhoneApp).
